@@ -10,9 +10,37 @@
 </head>
 
 <body>
+    <!-- test0 -->
+    <!-- <h1>Hello Wolrd!</h1>
+    <button type="button" id="hello">hello</button>
+    <button type="button" id="study">study</button>
+    <button type="button" id="bye">bye</button>
 
     <script>
         var socket = io.connect();
+        socket.on("test", function() {
+
+        });
+        document.getElementById("hello").addEventListener("click", function() {
+            socket.emit("test", "hello");
+        })
+        document.getElementById("study").addEventListener("click", function() {
+            socket.emit("test", "study");
+        })
+        document.getElementById("bye").addEventListener("click", function() {
+            socket.emit("test", "bye");
+        })
+    </script> -->
+    <script>
+        // var socket = io.connect();
+        // socket.emit("welcome", "(클라이언트) 반가워");
+
+        // socket.on("Welcome From Server", (data) => {
+        //     console.log(data);
+        //     console.log(data.name, data.msg)
+        // });
+
+        // 입장 퇴장
     </script>
 </body>
 
