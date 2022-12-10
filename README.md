@@ -4,12 +4,12 @@
 # 🦝 raccoon talk
 
 ### 채팅 사이트
-  소개 : socket.io를 이용한 단체 채팅 및 DM 기능이 있는 사이트
+  소개 : socket.io를 이용한 단체 채팅 및 DM 기능이 있는 실시간 채팅 사이트
 
 # 📅 기간
 2022.09.14 ~ 2022.09.16
 
-## ✉️채팅
+## ✉️ 실시간 채팅
 ![image](https://user-images.githubusercontent.com/97138102/206835956-0cca6996-db58-49d5-b856-e924d4bfae5d.png)
 #### socket.io 모듈 설치
 
